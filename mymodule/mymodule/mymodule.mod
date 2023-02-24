@@ -1,0 +1,2 @@
+/root/mymodule/mymodule.o
+
